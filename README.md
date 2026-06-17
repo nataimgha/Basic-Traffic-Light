@@ -1,7 +1,7 @@
 # Basic-Traffic-Light
 Traffic light that defaults to red light, includes pedestrian sidewalk button that activates white light simulating walk sign, and an ultrasonic sensor that detects vehicles waiting which turns light to green.
 
-Outputs: red, yellow and green LEDs for regular traffic, white LED for walk sign. Also a buzzer to simulate noise when walk button is pressed. 
+Outputs: red, yellow and green LEDs for regular traffic, white LED for walk sign. Also an active buzzer to simulate noise when walk button is pressed. 
 Inputs: Button to active walk sign, ultrasonic sensor which detects if car is waiting.
 
 
