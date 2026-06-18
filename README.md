@@ -6,3 +6,6 @@ Inputs: Button to active walk sign, ultrasonic sensor which detects if car is wa
 
 
 Instructions: Light defaults to red, so if you are a pedestrian trying to walk, simply press the button and the white light will activate shortly. If you are a driver, approach the ultrasonic sensor and the light will turn to green shortly. 
+
+https://github.com/user-attachments/assets/f4e64609-e8f0-4296-97e6-bdba188d8a38
+
